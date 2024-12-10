@@ -65,8 +65,8 @@ Blockchain and Web3 are not just technologies—they are the future of trust, tr
 
 ## 📈 GitHub Stats
 
-![Junhyuk's GitHub stats](https://github-readme-stats.vercel.app/api?username=junhyuklee&show_icons=true&theme=radical)  
-![Top Languages](https://github-readme-stats.vercel.app/api/top-langs/?username=junhyuklee&layout=compact&theme=radical)
+![Junhyuk's GitHub stats](https://github-readme-stats.vercel.app/api?username=xodn348&show_icons=true&theme=radical)  
+![Top Languages](https://github-readme-stats.vercel.app/api/top-langs/?username=xodn348&layout=compact&theme=radical)
 
 ---
 
